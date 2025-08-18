@@ -4,7 +4,11 @@ A basic Prolog-based task management system for organizing daily tasks.
 
 ## File Structure
 - `task_manager.pl` - Main Prolog file containing task facts/data
-- `queries.pl` - Separate file containing all query predicates
+- `queries.pl` - Query predicates including recursive rules
+- `DOCUMENTATION.md` - Line-by-line code explanations
+- `BEGINNER_TUTORIAL.md` - Step-by-step learning guide
+- `EXAMPLES.md` - Sample queries with expected outputs
+- `RECURSIVE_EXAMPLES.md` - Recursive rules explained for beginners
 
 ## Task Structure
 Each task has the following format:
